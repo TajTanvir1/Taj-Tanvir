@@ -1,0 +1,12 @@
+div{
+   background-color: antiquewhite;
+   text-decoration: dashed;
+}
+h1{
+   color: blueviolet;
+   text-decoration: underline;
+}
+h3{
+   border: 2px solid rebeccapurple;
+   padding: 5px;
+}
